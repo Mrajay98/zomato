@@ -1,2 +1,6 @@
-# zomato
-online food delivery appliction
+dosa 
+vada
+idle
+rice
+samber
+
